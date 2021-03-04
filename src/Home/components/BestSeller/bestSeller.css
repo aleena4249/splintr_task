@@ -1,0 +1,14 @@
+.bestSeller_style{
+    width:100px;
+}
+.best_style {
+ display:column;
+ margin-left:100px;
+}
+.best_image_style{
+    display:flex;
+    gap:30px
+}
+img {
+    padding-top:0px !important;
+}

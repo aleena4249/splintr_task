@@ -1,0 +1,13 @@
+
+.container-style {
+ background-color: white;
+ display:flex;
+ margin-left: 100px;
+ justify-content: space-between;
+  }
+  .image1{
+      display:column;
+  }
+  h5 {
+      font-weight:normal
+  }

@@ -1,0 +1,97 @@
+{
+    "data": [
+      {
+        "id": "1",
+        "name": "Adidas",
+        "website": "http://merchantwebsite.com",
+        "address": "",
+        "featured": "images/adidas.png",
+        "“bg_image": "donny54@yahoo.com",
+        "categories": [
+          {
+            "name": "Best_Sellers"
+          },
+          {
+            "name": "Top_Deals"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Chap",
+        "website": "http://merchantwebsite.com",
+        "address": "",
+        "featured": "images/chap.png",
+        "“bg_image": "donny54@yahoo.com",
+        "categories": [
+          {
+            "name": "Best_Sellers"
+          },
+          {
+            "name": "Top_Deals"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Faces",
+        "website": "http://merchantwebsite.com",
+        "address": "",
+        "featured": "images/faces.png",
+        "“bg_image": "donny54@yahoo.com",
+        "categories": [
+          {
+            "name": "Best_Sellers"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Haus",
+        "website": "http://merchantwebsite.com",
+        "address": "",
+        "featured": "images/haus.png",
+        "“bg_image": "donny54@yahoo.com",
+        "categories": [
+          {
+            "name": "Best_Sellers"
+          },
+          {
+            "name": "Top_Deals"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "HM",
+        "website": "http://merchantwebsite.com",
+        "address": "",
+        "featured": "images/HM.png",
+        "“bg_image": "donny54@yahoo.com",
+        "categories": [
+          {
+            "name": "Best_Sellers"
+          },
+          {
+            "name": "Top_Deals"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Splash",
+        "website": "http://merchantwebsite.com",
+        "address": "",
+        "featured": "./images/splash.png",
+        "“bg_image": "donny54@yahoo.com",
+        "categories": [
+          {
+            "name": "Best_Sellers"
+          },
+          {
+            "name": "Top_Deals"
+          }
+        ]
+      }
+    ]
+  }

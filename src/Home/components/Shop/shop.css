@@ -1,0 +1,25 @@
+.div_style {
+    background-color: white;
+    display:flex;
+    justify-content: center;
+     }
+.image_style {
+    margin-left:150px;
+}
+.componet_style{
+    display:column;
+    margin-top: 200pt;
+    margin-left: 40pt;
+}
+.vl {
+    border-left: 6px black;
+    height: 500px;
+}
+.qr_div_style{
+    display:flex;
+    gap:50px;
+}
+.qr_image {
+    padding-top:0px !important
+}
+

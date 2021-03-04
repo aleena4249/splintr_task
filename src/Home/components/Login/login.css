@@ -1,0 +1,68 @@
+
+.login_style {
+height: 1000px;
+width: 1890px;
+background-image: url("./images/homepage.jpg"); 
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+@media screen and (max-width: 640px){
+    .login_style {
+        width: 900px;
+        height: 360px;
+        background-image: url("./images/homepage.jpg");
+        background-repeat: no-repeat;
+        /* background-size: cover; */
+        height: fit-content;
+    }
+}
+
+@media screen and (max-width: 1024px){
+   .login_style {
+     width: 1025px; 
+    height: 572px; 
+    background-image: url("./images/homepage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+}
+}
+
+.header_style {
+    display:flex;
+    justify-content: flex-end;
+    gap:30px;
+    margin-left: 100px;
+    padding-top: 40px;
+}
+.span_1 {
+    /* margin-left: 100px; */
+    font-size: 15px;
+}
+span {
+    color:black;
+    font-weight: bold;
+    text-align:center;
+}
+.button1 { 
+    background-color: black !important;
+    color: white !important;
+    border-radius: 15px;
+    margin-left: auto;
+}
+.button2 { 
+    background-color: black !important;
+    color: white !important;
+    border-radius: 15px;
+    margin-right: 20px;
+
+}
+
+.h1_style{
+    padding-top:100px;
+    display:column;
+    color:black;
+    font-weight: bold; 
+    margin-left: 100px;
+}
